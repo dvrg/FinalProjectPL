@@ -1,0 +1,6 @@
+c:\users\david rigan\documents\visual studio 2015\Projects\ConsoleApplicationPemesananMakanan\ConsoleApplicationPemesananMakanan\bin\Debug\ConsoleApplicationPemesananMakanan.exe.config
+C:\Users\David Rigan\documents\visual studio 2015\Projects\ConsoleApplicationPemesananMakanan\ConsoleApplicationPemesananMakanan\bin\Debug\ConsoleApplicationPemesananMakanan.exe
+C:\Users\David Rigan\documents\visual studio 2015\Projects\ConsoleApplicationPemesananMakanan\ConsoleApplicationPemesananMakanan\bin\Debug\ConsoleApplicationPemesananMakanan.pdb
+C:\Users\David Rigan\documents\visual studio 2015\Projects\ConsoleApplicationPemesananMakanan\ConsoleApplicationPemesananMakanan\obj\Debug\ConsoleApplicationPemesananMakanan.csprojResolveAssemblyReference.cache
+C:\Users\David Rigan\documents\visual studio 2015\Projects\ConsoleApplicationPemesananMakanan\ConsoleApplicationPemesananMakanan\obj\Debug\ConsoleApplicationPemesananMakanan.exe
+C:\Users\David Rigan\documents\visual studio 2015\Projects\ConsoleApplicationPemesananMakanan\ConsoleApplicationPemesananMakanan\obj\Debug\ConsoleApplicationPemesananMakanan.pdb

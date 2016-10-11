@@ -4,3 +4,9 @@ C:\Users\David Rigan\documents\visual studio 2015\Projects\ConsoleApplicationPem
 C:\Users\David Rigan\documents\visual studio 2015\Projects\ConsoleApplicationPemesananMakanan\ConsoleApplicationPemesananMakanan\obj\Debug\ConsoleApplicationPemesananMakanan.csprojResolveAssemblyReference.cache
 C:\Users\David Rigan\documents\visual studio 2015\Projects\ConsoleApplicationPemesananMakanan\ConsoleApplicationPemesananMakanan\obj\Debug\ConsoleApplicationPemesananMakanan.exe
 C:\Users\David Rigan\documents\visual studio 2015\Projects\ConsoleApplicationPemesananMakanan\ConsoleApplicationPemesananMakanan\obj\Debug\ConsoleApplicationPemesananMakanan.pdb
+C:\Users\Andre Pratama\Source\Repos\FinalProjectPL\ConsoleApplicationPemesananMakanan\bin\Debug\ConsoleApplicationPemesananMakanan.exe.config
+C:\Users\Andre Pratama\Source\Repos\FinalProjectPL\ConsoleApplicationPemesananMakanan\obj\Debug\ConsoleApplicationPemesananMakanan.exe
+C:\Users\Andre Pratama\Source\Repos\FinalProjectPL\ConsoleApplicationPemesananMakanan\obj\Debug\ConsoleApplicationPemesananMakanan.pdb
+C:\Users\Andre Pratama\Source\Repos\FinalProjectPL\ConsoleApplicationPemesananMakanan\bin\Debug\ConsoleApplicationPemesananMakanan.exe
+C:\Users\Andre Pratama\Source\Repos\FinalProjectPL\ConsoleApplicationPemesananMakanan\bin\Debug\ConsoleApplicationPemesananMakanan.pdb
+C:\Users\Andre Pratama\Source\Repos\FinalProjectPL\ConsoleApplicationPemesananMakanan\obj\Debug\ConsoleApplicationPemesananMakanan.csprojResolveAssemblyReference.cache

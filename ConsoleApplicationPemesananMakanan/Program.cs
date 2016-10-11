@@ -12,11 +12,12 @@ namespace ConsoleApplicationPemesananMakanan
         {
             Menu mn = new Menu();
             Pegawai pg = new Pegawai();
+            Pembayaran pby = new Pembayaran();
 
             char pilihan;
 
             Console.WriteLine("Masukan Pilihan: ");
-            Console.WriteLine("1. Data Menu\n2. Data Pegawai");
+            Console.WriteLine("1. Data Menu\n2. Data Pegawai\n3. Data Pembayaran");
             Console.Write("Pilihan Anda: ");
             pilihan = char.Parse(Console.ReadLine());
 
@@ -50,6 +51,21 @@ namespace ConsoleApplicationPemesananMakanan
 
                 Console.Write("Nama Sandi\t:");
                 pg.SetSandi(Console.ReadLine());
+            }
+
+            else if (pilihan == '3')
+            {
+                Console.Write("Kode Pembayaran\t:");
+                pby.SetKodePembayaran(Console.ReadLine());
+
+                Console.Write("Tanggal Pembayaran\t:");
+                pby.SetTanggalPembayaran(Console.ReadLine());
+
+                Console.Write("ID Pemesanan\t:");
+                pby.SetIdPemesanan(Double.Parse(Console.ReadLine()));
+
+                Console.Write("Metode\t:");
+                pby.SetMetode(Console.ReadLine());
             }
         }
     }

@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Menu.cs" />
     <Compile Include="Pegawai.cs" />
+    <Compile Include="Pembayaran.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
